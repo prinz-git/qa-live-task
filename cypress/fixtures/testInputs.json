@@ -1,0 +1,31 @@
+{
+  "tasks": {
+    "validationMissingTitle": {
+      "title": "",
+      "description": "Task without title"
+    },
+    "highPriority": {
+      "title": "Write tests",
+      "description": "some desc",
+      "date": "2025-10-01",
+      "priority": "high"
+    },
+    "completion": {
+      "firstTask": "A task",
+      "secondTask": "B task"
+    },
+    "editFlow": {
+      "original": "Original",
+      "edited": "Edited"
+    },
+    "deleteFlow": {
+      "title": "Will be deleted"
+    },
+    "resetCheck": {
+      "title": "Test reset",
+      "description": "Reset description",
+      "date": "2025-10-01",
+      "priority": "medium"
+    }
+  }
+}
